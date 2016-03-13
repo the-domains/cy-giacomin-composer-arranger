@@ -1,7 +1,7 @@
 name: 'Cy Giacomin, Composer/Arranger'
 favicon: null
 layout_spectrum: 0.8449342180974782
-typography_spectrum: 0.0961681455373764
+typography_spectrum: 0.77065
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   brandStrength: 0.013279419159516692
-  lightness: 0.37735149008221924
+  lightness: 0.6875
   saturation: 0.6215092793572694
-  rhythmicContrast: 0.8522605416364968
+  rhythmicContrast: 1
 purpose: []
